@@ -1,3 +1,3 @@
-# LPPETE
+# LPP-ETE
 
 - PHP e LARAVEL
